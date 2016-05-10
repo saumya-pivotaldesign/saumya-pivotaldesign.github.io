@@ -1,2 +1,4 @@
-# saumya-pivotaldesign.github.io
-Pivotal design posrtfolio
+Pivotal Design
+==========================
+
+Pivotal design portfolio
